@@ -1,8 +1,7 @@
 # California Housing Price Prediction
 
 ## Project Overview
-
-This project aims to predict California housing prices based on a variety of features using machine learning models. It explores the relationships between house prices and features such as median income, house age, average rooms per household, and more. The analysis is conducted on the California Housing dataset, available through `sklearn.datasets`.
+The primary objective of this project is to identify the most effective machine learning model for predicting California housing prices. We aim to compare various regression models on their accuracy and efficiency in handling the dataset derived from the 1990 California census.
 
 ## Dataset
 
